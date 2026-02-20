@@ -17,7 +17,7 @@ function App() {
   return (
     <div>
       {info.map((user) => (
-        <p key={user.id}>{user.name}</p>
+        <h1 key={user.id}>{user.name}</h1>
       ))}
     </div>
   );

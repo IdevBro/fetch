@@ -1,0 +1,22 @@
+.box {
+  background-color: orangered;
+  width: 100px;
+  padding: 10px;
+  position: relative;
+}
+.x {
+  position: absolute;
+  top: -20px;
+  right: 2px;
+  cursor: pointer;
+}
+
+.btn {
+  color: white;
+}
+.qizil {
+  background-color: red;
+}
+.kok {
+  background-color: blue;
+}
